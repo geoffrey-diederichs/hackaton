@@ -1,3 +1,3 @@
-DIEDERICHS Geoffrey, GILIARD Yanis, PENOT Clément, RANVIN Thimothee, SINCK Erwan
+DIEDERICHS Geoffrey, GILLIARD Yanis, PENOT Clément, RANVIN Thimothee, SINCK Erwan
 
 # Hackathon
