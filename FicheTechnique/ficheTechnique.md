@@ -1,4 +1,4 @@
-### Fiche technique
+# Fiche technique
 
 Battle adventure est un serveur minecraft de pvp/ faction basé sur l'univers de Dofus/ Wakfu. Il dispose d'un site web fascilitant et détaillant le fonctionnement du serveur ainsi que d'un discord. Nous avions une semaine pour trouver des améliorations possibles, cette fiche technique détaille les fonctionnalités sur lesquelles nous avons travaillé.
 
@@ -10,19 +10,19 @@ Nous nous sommes donc demandé : quelles innovations peuvent être mises en plac
 
 ## Objectifs
 
-# Casino
+### Casino
 
 Pour fidéliser des utilisateurs, nous avons pensé à un jeu de hasard pour remporter des lots liés au serveur. Les utilisateurs auront quotidiennement une seule utilisation gratuite (ils pourront évidemment payer pour plus l'utiliser) pour les motiver à se reconnecter. 
 Ce jeu devra être immersif en plus de respecter la charte graphique.
 
-# Chat web/ discord
+### Chat web/ discord
 
 Pour faciliter la communication entre de potentiels nouveaux utilisateurs essayant de se connecter au serveur rapidement et les administrateurs du serveur, nous avons pensé à une interface web, relié à Discord permettant à de nouveaux utilisateurs de poser des questions depuis le site web, sans se connecter, les messages étant transmit sur Discord par un bot d’où les administrateur pourront répondre.
 Cette interface de support devra être intuitive et efficace.
 
-## Solution proposée
+## Solutions proposées
 
-# Casino
+### Casino
 
 Technologies utilisées :
     - JS : langage populaire, supporté par tous les navigateurs, mis à jour en continu et dispose de nombreux frameworks, bibliothèques. Il est aussi possible de l’intégrer avec d’autres langages (php, laravel, etc).
@@ -39,7 +39,7 @@ Fonctionnalités et valeurs ajoutée :
     - Une rotation aléatoire de récompenses chaque semaine. Cela garde le jeu intéressant.
     - Une transparence en laissant l'accès aux probabilités derrière le jeu. Pour créer une relationd de confiance avec les joueurs.
 
-# Chat web/ discord
+### Chat web/ discord
 
 Technologies utilisées :
     - Golang : language simple, compilé et performant. Autrement dit le programme pourra facilement être modifié, amélioré et sera déployé depuis n’importe quel serveur sans problèmes de performances.
@@ -53,7 +53,7 @@ Fonctionnalités :
 Valeurs ajoutées :
     - Communication entre les nouveaux utilisateurs et les administrateurs sans qu’ils aient à se connecter au serveur discord pour apporter des conseils rapidement leur permettant de profiter du serveur sans se perdre dans de la documentation.
 
-## Conclusion
+# Conclusion
 
 Nous estimons que ces améliorations fasciliteront l'utilisation du site et l'accès aux serveurs pour les nouveaux utilisateurs en plus de donner des raisons de se reconnecter quotidiennement aux utilisateurs plus aguerris.
 Notre travail pourrait encore être amélioré en développant une interface administrateur pour définir les probabilités de jeu, un classement des joueurs ayant obtenues les meilleures récompenses, er un algorithme observant le comportement des nouveaux utilisateurs pour déterminer s'il faudrait leur proposer une conversation avec les administrateurs.
