@@ -4,6 +4,10 @@ Programme permettant de mettre en place une conversation entre une personne conn
 
 ## Contenu
 
+### Demonstration
+
+Contient une vidéo montrant le programme en fonctionnement.
+
 ### Static/
 
 Fichier html utilisé pour la page web.
