@@ -8,19 +8,19 @@ Programme permettant de mettre en place une conversation entre une personne conn
 
 Contient une vidéo montrant le programme en fonctionnement.
 
-### Static/
+### Program/Static/
 
 Fichier html utilisé pour la page web.
 
-### main.go
+### Program/main.go
 
 Démarre le serveur web, initialise le bot discord et fait le lien entre le site web et le bot discord.
 
-### bot.go
+### Program/bot.go
 
 Contient le code utilisé pour faire tourner le bot discord.
 
-### go.mod et go.sum
+### Program/go.mod et Program/go.sum
 
 Fichier golang gérant les imports et packages utilisés.
 
