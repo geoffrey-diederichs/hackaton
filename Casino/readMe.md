@@ -1,6 +1,6 @@
 # Fiche Pratique Casino
 
-Programme permettant de jouer à une machine à slot sur un site web.Tout le programme est dans le dossier /Program.
+Programme permettant de jouer à une machine à slot sur un site web. Tout le programme est dans le dossier /Program.
 
 ## Contenu du dossier "Casino"
 
