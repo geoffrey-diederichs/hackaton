@@ -12,7 +12,7 @@ Maquette d'un nouveau site web Battle adventure plus minimaliste.
 
 ### Fiche technique
 
-Fiche technique détaillant les nouvelles fonctionnalités auquelles nous avons pensé.
+Fiche technique détaillant les nouvelles fonctionnalités auxquelles nous avons pensé.
 
 ### Casino
 
