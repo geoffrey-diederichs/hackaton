@@ -1,6 +1,6 @@
 # HelpMe
 
-Proof of concept d'un programme permettant de mettre en place une conversation entre une personne connecté sur un site web, et une personne connecté sur discord. Tout le programme est dans le dossier /Program.
+Programme permettant de mettre en place une conversation entre une personne connecté sur un site web, et une personne connecté sur discord. Tout le programme est dans le dossier /Program.
 
 ## Contenu
 
