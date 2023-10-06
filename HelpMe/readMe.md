@@ -26,7 +26,7 @@ Tout d'abord il vous faut un bot discord. Après l'avoir ajouté sur votre serve
 ```go
 var Token = ""
 ```
-Vous pouvez ensuite lancer le program par exemple en saisissant :
+Vous pouvez ensuite lancer le program par exemple en saisissant (depuis le dossier contenant le programme) :
 ```sh
 $ go run .
 ```
