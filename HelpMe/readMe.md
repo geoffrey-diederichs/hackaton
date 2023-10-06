@@ -34,5 +34,5 @@ Vous pouvez ensuite lancer le program par exemple en saisissant (depuis le dossi
 ```sh
 $ go run .
 ```
-Une fois que le message "Bot is ready" apparaît dans le terminal, envoyez le message "start" dans un salon textuel du serveur dans le lequel le bot est présent. Cela indiquera au bot qu'il s'agit du salon dans lequel le bot doit fonctionner. Les messages "Server online" et "Channel id saved" apparaîtront dans votre terminal. Vous pouvez maintenant accéder au site avec l'url : localhost:8080/
+Une fois que le message "Bot is ready" apparaît dans le terminal, envoyez le message "start" dans un salon textuel du serveur dans lequel le bot est présent. Cela indiquera au bot qu'il s'agit du salon dans lequel le bot doit fonctionner. Les messages "Server online" et "Channel id saved" apparaîtront dans votre terminal. Vous pouvez maintenant accéder au site avec l'url : localhost:8080/
 Une fois un premier message envoyé depuis le site, le bot va créer un thread. Vous pouvez converser entre le site et le thread. La conversation sera affiché sur discord dans le thread et sur le site (n'oubliez pas de rafraîchir la page web après un nouveau message depuis discord).
