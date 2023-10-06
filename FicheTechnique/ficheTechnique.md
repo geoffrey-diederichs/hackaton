@@ -15,7 +15,7 @@ Nous nous sommes donc demandés : quelles innovations peuvent être mises en pla
 Pour fidéliser des utilisateurs, nous avons pensé à un jeu de hasard pour remporter des lots liés au serveur. Les utilisateurs auront quotidiennement une seule utilisation gratuite pour les motiver à se reconnecter. Ils pourront évidemment payer pour plus l'utiliser.
 Ce jeu devra être immersif en plus de respecter la charte graphique.
 
-### Chat web/ discord
+### Help me
 
 Pour faciliter la communication entre de potentiels nouveaux utilisateurs essayant de se connecter au serveur rapidement et les administrateurs du serveur, nous avons pensé à une interface web, relié à Discord permettant à de nouveaux utilisateurs de poser des questions depuis le site web, sans se connecter, les messages étant transmis sur Discord par un bot d’où les administrateur pourront répondre.
 Cette interface de support devra être intuitive et efficace.
@@ -39,7 +39,7 @@ Fonctionnalités et valeurs ajoutée :
     - Une rotation aléatoire de récompenses chaque semaine. Cela garde le jeu intéressant.
     - Une transparence en laissant l'accès aux probabilités derrière le jeu. Pour créer une relation de confiance avec les joueurs.
 
-### Chat web/ discord
+### Help me
 
 Technologies utilisées :
     - Golang : language simple, compilé et performant. Autrement dit le programme pourra facilement être modifié, amélioré et sera déployé depuis n’importe quel serveur sans problèmes de performances.
